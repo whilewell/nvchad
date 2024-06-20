@@ -1,0 +1,2 @@
+# nvchad
+save nvchad config
